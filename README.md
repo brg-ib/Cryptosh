@@ -2,7 +2,7 @@
 
 Live crypto App in ReactJS
 
-
+![Cryptosh](https://github.com/brg-ib/cryptosh/blob/main/src/CRYPTOSH.gif)
 ## Technologies Used
 
 - [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces
